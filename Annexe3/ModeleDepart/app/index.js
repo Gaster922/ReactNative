@@ -19,7 +19,7 @@ export default function Index() {
   
   const imageHeart = require("../assets/images/heart.png");
   const gererButton = () =>{
-    setValeur( valeur+1)
+    setValeur(valeur+1)
   }
 
  
